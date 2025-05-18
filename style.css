@@ -58,6 +58,7 @@ header a {
     text-decoration: none;
 }
 header a:hover {
+    color:rgb(243, 239, 6);
     text-decoration: underline;
 }
 .current
