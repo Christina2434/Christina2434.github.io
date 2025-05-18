@@ -60,6 +60,10 @@ header a {
 header a:hover {
     text-decoration: underline;
 }
+.current
+{
+     color:rgb(243, 239, 6); 
+}
         /* 时间机器样式 */
         .time-machine {
             text-align: center;
