@@ -50,7 +50,8 @@ header ul {
 }
 header li {
     display:inline;
-    margin-right:4vw;    
+    margin-right:4vw;
+    margin: top 2vw
 }
 header a {
     color:rgb(255, 255, 255);
